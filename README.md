@@ -8,7 +8,7 @@ Two more projects coming from Google Data Analytics Professional Certificate and
 
 - I am continuously improving my skills in Python, R, Tableau, and SQL.
 - Reach me at LiJake2001@gmail.com
-- Fun fact: Realized I enjoy reading during the pandemic. Currently reading Storytelling with Data by Cole Nussbaumer Knaflic.
+- Fun fact: During the pandemic, I realized that I enjoy reading. Currently reading Storytelling with Data by Cole Nussbaumer Knaflic.
 
 
 
