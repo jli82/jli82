@@ -1,4 +1,16 @@
 ### Hi there 👋
+Welcome to my profile!
+
+Projects:
+1. [Keywords/Skills for Data Analyst](https://github.com/JakeLi2001/Academic-Projects)
+
+Two more projects coming from Google Data Analytics Professional Certificate and EverUp Micro-Credential Data Analytics.
+
+- I am continuously improving my skills in Python, R, Tableau, and SQL.
+- Reach me at LiJake2001@gmail.com
+- Fun fact: Realized I enjoy reading during the pandemic. Currently reading Storytelling with Data by Cole Nussbaumer Knaflic.
+
+
 
 <!--
 **JakeLi2001/JakeLi2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
