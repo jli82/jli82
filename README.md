@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my profile!
 
-[EverUp-Micro-Credential-Data-Analytics](https://github.com/JakeLi2001/EverUp-Micro-Credential-Data-Analytics)
+:pencil: Currently working on: [EverUp-Micro-Credential-Data-Analytics](https://github.com/JakeLi2001/EverUp-Micro-Credential-Data-Analytics)
 
 [Academic Projects](https://github.com/JakeLi2001/Academic-Projects)
 1. [Keywords/Skills for Data Analyst](https://github.com/JakeLi2001/Academic-Projects/tree/main/CIS%203120%20-%20Programming%20for%20Analytics)
@@ -9,9 +9,13 @@ Welcome to my profile!
 
 Two more projects coming from Google Data Analytics Professional Certificate and EverUp Micro-Credential Data Analytics.
 
-- I am continuously improving my skills in Python, R, Tableau, and SQL.
-- Reach me at LiJake2001@gmail.com
-- Fun fact: During the pandemic, I realized that I enjoy reading. Currently reading Storytelling with Data by Cole Nussbaumer Knaflic.
+:books:	I am continuously improving my skills in Python, R, Tableau, and SQL.
+
+LinkedIn: http://www.linkedin.com/in/jakeli2001
+
+Email: LiJake2001@gmail.com
+
+Fun fact: During the pandemic, I realized that I enjoy reading. Currently reading Storytelling with Data by Cole Nussbaumer Knaflic.
 
 
 
