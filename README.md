@@ -1,8 +1,8 @@
 ### Hi there 👋
 Welcome to my profile!
 
-Academic Projects
-1. [Keywords/Skills for Data Analyst](https://github.com/JakeLi2001/Academic-Project-CIS3120)
+[Academic Projects](https://github.com/JakeLi2001/Academic-Projects)
+1. [Keywords/Skills for Data Analyst](https://github.com/JakeLi2001/Academic-Projects/tree/main/CIS%203120%20-%20Programming%20for%20Analytics)
 
 Two more projects coming from Google Data Analytics Professional Certificate and EverUp Micro-Credential Data Analytics.
 
