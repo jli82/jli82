@@ -2,12 +2,14 @@
 Welcome to my profile!
 
 :pencil: Currently working on: 
-- [EverUp-Micro-Credential-Data-Analytics](https://github.com/JakeLi2001/EverUp-Micro-Credential-Data-Analytics)
 - Google Data Analytics Professional Certificate
 
 [Academic Projects](https://github.com/JakeLi2001/Academic-Projects)
 1. [Keywords/Skills for Data Analyst](https://github.com/JakeLi2001/Academic-Projects/tree/main/CIS%203120%20-%20Programming%20for%20Analytics)
 2. [Supermarket Sales Relational Database](https://github.com/JakeLi2001/Academic-Projects/tree/main/CIS%203400%20-%20Database%20Management%20Systems)
+
+Certification:
+- [EverUp-Micro-Credential-Data-Analytics](https://github.com/JakeLi2001/EverUp-Micro-Credential-Data-Analytics)
 
 :books:	I am continuously improving my skills in Python, R, Tableau, and SQL.
 
