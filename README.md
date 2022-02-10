@@ -9,7 +9,7 @@ Welcome to my profile!
 2. [Supermarket Sales Relational Database](https://github.com/JakeLi2001/Academic-Projects/tree/main/CIS%203400%20-%20Database%20Management%20Systems)
 
 Certification:
-- [EverUp-Micro-Credential-Data-Analytics](https://github.com/JakeLi2001/EverUp-Micro-Credential-Data-Analytics)
+- [EverUp Micro-Credential Data Analytics](https://github.com/JakeLi2001/EverUp-Micro-Credential-Data-Analytics)
 
 :books:	I am continuously improving my skills in Python, R, Tableau, and SQL.
 
