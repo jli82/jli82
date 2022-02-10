@@ -11,7 +11,7 @@ Welcome to my profile!
 Certification:
 - [EverUp Micro-Credential Data Analytics](https://github.com/JakeLi2001/EverUp-Micro-Credential-Data-Analytics)
 
-:books:	I am continuously improving my skills in Python, R, Tableau, and SQL.
+:books:	I am actively seeking opportunities to further my skills, leadership, and professionalism.
 
 LinkedIn: http://www.linkedin.com/in/jakeli2001
 
