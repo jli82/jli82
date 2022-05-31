@@ -17,7 +17,6 @@ LinkedIn: http://www.linkedin.com/in/jakeli2001
 
 Email: LiJake2001@gmail.com
 
-Fun fact: During the pandemic, I realized that I enjoy reading. Currently reading Storytelling with Data by Cole Nussbaumer Knaflic.
 
 
 
