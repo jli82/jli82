@@ -13,11 +13,6 @@ Certification:
 
 :books:	I am actively seeking opportunities to further my skills, leadership, and professionalism.
 
-LinkedIn: http://www.linkedin.com/in/jakeli2001
-
-Email: LiJake2001@gmail.com
-
-
 
 
 <!--
