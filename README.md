@@ -2,7 +2,7 @@
 Welcome to my profile!
 
 :pencil: Currently working on: 
-- Azure Data Fundamentals Certificate
+- Google Data Analytics Professional Certificate
 
 [Academic Projects](https://github.com/JakeLi2001/Academic-Projects)
 1. [Keywords/Skills for Data Analyst](https://github.com/JakeLi2001/Academic-Projects/tree/main/CIS%203120%20-%20Programming%20for%20Analytics)
