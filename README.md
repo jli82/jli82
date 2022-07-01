@@ -11,7 +11,7 @@ Welcome to my profile!
 Certification:
 - [EverUp Micro-Credential Data Analytics](https://github.com/JakeLi2001/EverUp-Micro-Credential-Data-Analytics)
 
-:books:	I am actively seeking opportunities to further my skills, leadership, and professionalism.
+:books:	I am actively seeking opportunities to further improve my skills, leadership, and professionalism.
 
 
 
