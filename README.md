@@ -6,8 +6,8 @@ Welcome to my profile!
 2. [Supermarket Sales Relational Database](https://github.com/JakeLi2001/Academic-Projects/tree/main/CIS%203400%20-%20Database%20Management%20Systems)
 
 Certification:
-- [EverUp Micro-Credential Data Analytics](https://github.com/JakeLi2001/EverUp-Micro-Credential-Data-Analytics)
 - [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate)
+- [EverUp Micro-Credential Data Analytics](https://github.com/JakeLi2001/EverUp-Micro-Credential-Data-Analytics)
 
 :books:	I am actively seeking opportunities to further improve my skills, leadership, and professionalism.
 
