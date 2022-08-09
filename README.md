@@ -1,8 +1,8 @@
 ### Hi there 👋
 Welcome to my profile!
 
-[Academic Projects](https://github.com/JakeLi2001/Academic-Projects)
-- [Keywords/Skills for Data Analyst](https://github.com/JakeLi2001/Academic-Projects/tree/main/CIS%203120%20-%20Programming%20for%20Analytics)
+Python Projects
+- [Keywords/Skills for Data Analyst](https://github.com/JakeLi2001/Keywords_for_Data_Analyst)
 
 Certification:
 - [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate)
