@@ -1,28 +1,21 @@
-### Hi there 👋
-Welcome to my profile!
+## Hi there 👋, welcome to my portfolio!
 
-Python Projects
+My name is JianHui (Jake) Li and I am currently a junior majoring in Computer Information Systems (Data Analytics Track) with a minor in Mathematics. I have always been interested in math and technology which leads me to the field of data science. I am interested in solving problems and seek to make an impact using data science. The ability to turn raw data into actionable insights that guide business decisions or solve a problem is truly fascinating and powerful.
+
+---
+
+### Projects:
+
+#### Python
 - [Keywords/Skills for Data Analyst](https://github.com/JakeLi2001/Keywords_for_Data_Analyst)
 
-Certification:
+#### R
 - [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate)
+
+---
+
+### Certification:
 - [EverUp Micro-Credential Data Analytics](https://github.com/JakeLi2001/EverUp-Micro-Credential-Data-Analytics)
 
 :books:	I am actively seeking opportunities to further improve my skills, leadership, and professionalism.
 
-
-
-<!--
-**JakeLi2001/JakeLi2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
