@@ -15,6 +15,7 @@ My name is JianHui (Jake) Li and I am currently a junior majoring in Computer In
 ---
 
 ### Certification:
+- [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate)
 - [EverUp Micro-Credential Data Analytics](https://github.com/JakeLi2001/EverUp-Micro-Credential-Data-Analytics)
 
 :books:	I am actively seeking opportunities to further improve my skills, leadership, and professionalism.
