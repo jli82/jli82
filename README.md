@@ -16,6 +16,8 @@ Currently working on: [CUNY Tech Prep Data Science Track](https://github.com/Jak
 #### R
 - [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate)
 
+#### Tableau
+- [Tableau Public](https://public.tableau.com/app/profile/jakeli2001)
 ---
 
 ### Certification:
