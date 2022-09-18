@@ -4,6 +4,8 @@ My name is JianHui (Jake) Li and I am currently a junior majoring in Computer In
 
 Fun fact: I can read morse code.
 
+Currently working on: [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8)
+
 ---
 
 ### Projects:
