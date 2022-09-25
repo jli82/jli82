@@ -25,6 +25,7 @@ Currently working on: [CUNY Tech Prep Data Science Track](https://github.com/Jak
 
 #### Tableau
 - [Tableau Public](https://public.tableau.com/app/profile/jakeli2001)
+
 ---
 
 ### Certification:
