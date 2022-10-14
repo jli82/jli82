@@ -5,9 +5,9 @@ I am a first-generation college student at CUNY Baruch College, Zicklin School o
 Aside from academic excellence, I am proactively exploring opportunities to expand and enhance my leadership, professionalism, skillsets, and knowledge.
 
 Skills
-Programming: Python (NumPy, Pandas, Matplotlib, Seaborn), R (Tidyverse), SQL, HTML, CSS
-Technologies: Rstudio, Tableau, Power BI, Microsoft Access, PostgreSQL, Git
-Certifications: Google Data Analytics Professional Certificate, Microsoft Azure Data Fundamentals
+- Programming: Python (NumPy, Pandas, Matplotlib, Seaborn), R (Tidyverse), SQL, HTML, CSS
+- Technologies: Rstudio, Tableau, Power BI, Microsoft Access, PostgreSQL, Git
+- Certifications: Google Data Analytics Professional Certificate, Microsoft Azure Data Fundamentals
 
 Fun Fact: I can read morse code.
 
