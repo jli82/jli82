@@ -5,7 +5,7 @@ I am a first-generation college student at CUNY Baruch College, Zicklin School o
 Aside from academic excellence, I am proactively exploring opportunities to expand and enhance my leadership, professionalism, skillsets, and knowledge.
 
 Skills
-- Programming: Python (NumPy, Pandas, Matplotlib, Seaborn), R (Tidyverse), SQL, HTML, CSS
+- Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn), R (Tidyverse, ggplot2), SQL, Machine Learning, HTML, CSS
 - Technologies: Rstudio, Tableau, Power BI, Microsoft Access, PostgreSQL, Git
 - Certifications: Google Data Analytics Professional Certificate, Microsoft Azure Data Fundamentals
 
