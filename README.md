@@ -11,7 +11,9 @@ Skills
 
 Fun Fact: I can read morse code.
 
-Currently working on: [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8)
+Currently working on: 
+- [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8)
+- [CTP Project - Crime Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS)
 
 ---
 
