@@ -20,7 +20,7 @@ Currently working on:
 ### Projects:
 
 #### Python
-- [Keywords/Skills for Data Analyst](https://github.com/JakeLi2001/Keywords_for_Data_Analyst)
+- [Data Analyst Keywords Analysis](https://github.com/JakeLi2001/Keywords_for_Data_Analyst)
 
 #### R
 - [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate)
