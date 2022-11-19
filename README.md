@@ -6,13 +6,13 @@
 
 I am a first-generation college student at CUNY Baruch College, Zicklin School of Business. I am currently a senior majoring in Computer Information Systems (Data Analytics Track) with a minor in Mathematics. I have always been interested in math and technology which leads me to the field of data science. I am interested in solving problems and seek to make an impact using data science. The ability to turn raw data into actionable insights that guide business decisions or solve a problem is truly fascinating and powerful.
 
-Skills
+## Skills
 - Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn), R (Tidyverse, ggplot2), SQL, Machine Learning (regression, random forest, NLP, AB
 testing, etc.), HTML/CSS
 - Technologies: Jupyter Notebook, Git, Rstudio, Data Visualization (Tableau, Power BI), Relational Database (PostgreSQL, Microsoft Access)
 - Certifications: Google Data Analytics Professional Certificate, Microsoft Azure Data Fundamentals
 
-Currently working on: 
+## Currently working on: 
 - [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8): A year long technical and professional development program
 - [CTP Project - Crime Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS): Build machine learning model to predict crime
 
