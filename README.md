@@ -22,7 +22,7 @@ Currently working on:
 - [CTP Project - Crime Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS)
 
 <p>
-  <a href="https://www.linkedin.com/in/jakeli2001/" target="_blank"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/jakeli2001/" target="_blank" rel="noopener noreferrer"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
 
 ---
