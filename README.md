@@ -1,8 +1,8 @@
-## Hello there 👋, welcome to my portfolio!
+<img align="center" alt="Banner" src="imgs/banner.png">
+
+# Hello there👋, welcome to my GitHub!
 
 I am a first-generation college student at CUNY Baruch College, Zicklin School of Business. I am currently a senior majoring in Computer Information Systems (Data Analytics Track) with a minor in Mathematics. I have always been interested in math and technology which leads me to the field of data science. I am interested in solving problems and seek to make an impact using data science. The ability to turn raw data into actionable insights that guide business decisions or solve a problem is truly fascinating and powerful.
-
-Aside from academic excellence, I am proactively exploring opportunities to expand and enhance my leadership, professionalism, skillsets, and knowledge.
 
 Skills
 
@@ -15,13 +15,15 @@ Skills
 
 Fun Fact: I can read morse code.
 
-<p>
-  <a href="https://www.linkedin.com/in/jakeli2001/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-</p>
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card"/>
 
 Currently working on: 
 - [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8)
 - [CTP Project - Crime Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS)
+
+<p>
+  <a href="https://www.linkedin.com/in/jakeli2001/" target="_blank"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+</p>
 
 ---
 
