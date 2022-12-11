@@ -24,6 +24,7 @@ Fun Fact: I can read morse code.
 
 ## Academic Projects:
 - [Big Data Stock Price Prediction](https://github.com/JakeLi2001/big-data-stock-price-prediction)
+- [Heart Disease Classification](https://github.com/JakeLi2001/heart-disease-classification)
 - [Data Analyst Keywords Analysis](https://github.com/JakeLi2001/Keywords_for_Data_Analyst)
 
 ## Personal Project:
