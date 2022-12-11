@@ -22,12 +22,11 @@ Fun Fact: I can read morse code.
 
 ---
 
-## Projects:
-
-### Python
+## Academic Projects:
+- [Big Data Stock Price Prediction](https://github.com/JakeLi2001/big-data-stock-price-prediction)
 - [Data Analyst Keywords Analysis](https://github.com/JakeLi2001/Keywords_for_Data_Analyst)
 
-### R
+## Personal Project:
 - [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate)
 
 ### Tableau
