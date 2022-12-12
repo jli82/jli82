@@ -23,12 +23,12 @@ Fun Fact: I can read morse code.
 ---
 
 ## Academic Projects:
-- [Big Data Stock Price Prediction](https://github.com/JakeLi2001/big-data-stock-price-prediction)
-- [Heart Disease Classification](https://github.com/JakeLi2001/heart-disease-classification)
-- [Data Analyst Keywords Analysis](https://github.com/JakeLi2001/Keywords_for_Data_Analyst)
+- [Big Data Stock Price Prediction](https://github.com/JakeLi2001/big-data-stock-price-prediction) (PySpark)
+- [Heart Disease Classification](https://github.com/JakeLi2001/heart-disease-classification) (R)
+- [Data Analyst Keywords Analysis](https://github.com/JakeLi2001/Keywords_for_Data_Analyst) (Python)
 
 ## Personal Project:
-- [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate)
+- [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate) (R)
 
 ### Tableau
 - [Tableau Public](https://public.tableau.com/app/profile/jakeli2001)
