@@ -14,7 +14,6 @@ testing, etc.), HTML/CSS
 
 ## Currently working on: 
 - [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8): A year long technical and professional development program
-- [CTP Project - Crime Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS): Build machine learning model to predict crime
 
 Fun Fact: I can read morse code.
 
@@ -28,6 +27,7 @@ Fun Fact: I can read morse code.
 - [Data Analyst Keywords Analysis](https://github.com/JakeLi2001/Keywords_for_Data_Analyst) (Python)
 
 ## Personal Project:
+- [CTP Project - Crime Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS)
 - [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate) (R)
 
 ### Tableau
