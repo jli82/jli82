@@ -6,6 +6,22 @@
 
 I am a first-generation college student at CUNY Baruch College, Zicklin School of Business. I am currently a senior majoring in Computer Information Systems (Data Analytics Track) with a minor in Mathematics. I have always been interested in math and technology which leads me to the field of data science. I am interested in solving problems and seek to make an impact using data science. The ability to turn raw data into actionable insights that guide business decisions or solve a problem is truly fascinating and powerful.
 
+---
+
+## Academic Projects:
+- [Big Data Stock Price Prediction](https://github.com/JakeLi2001/big-data-stock-price-prediction) (PySpark)
+- [Heart Disease Classification](https://github.com/JakeLi2001/heart-disease-classification) (R)
+- [Data Analyst Keywords Analysis](https://github.com/JakeLi2001/Keywords_for_Data_Analyst) (Python)
+
+## Personal Projects:
+- [CTP Project - Crime Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS) (Python)
+- [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate) (R)
+
+### Tableau
+- [Tableau Public](https://public.tableau.com/app/profile/jakeli2001)
+
+---
+
 ## Skills
 - Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn), R (Tidyverse, ggplot2), SQL, Machine Learning (regression, random forest, NLP, AB
 testing, etc.), HTML/CSS
@@ -23,17 +39,3 @@ testing, etc.), HTML/CSS
 Fun Fact: I can read morse code.
 
 <img src="https://readme-jokes.vercel.app/api?theme=solidBlue" alt="Jokes Card"/>
-
----
-
-## Academic Projects:
-- [Big Data Stock Price Prediction](https://github.com/JakeLi2001/big-data-stock-price-prediction) (PySpark)
-- [Heart Disease Classification](https://github.com/JakeLi2001/heart-disease-classification) (R)
-- [Data Analyst Keywords Analysis](https://github.com/JakeLi2001/Keywords_for_Data_Analyst) (Python)
-
-## Personal Project:
-- [CTP Project - Crime Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS)
-- [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate) (R)
-
-### Tableau
-- [Tableau Public](https://public.tableau.com/app/profile/jakeli2001)
