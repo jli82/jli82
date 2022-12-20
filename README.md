@@ -8,6 +8,9 @@ I am a first-generation college student at CUNY Baruch College, Zicklin School o
 
 ---
 
+## Currently working on: 
+- [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8): A year long technical and professional development program
+
 ## Academic Projects:
 - [Big Data Stock Price Prediction](https://github.com/JakeLi2001/big-data-stock-price-prediction) (PySpark)
 - [Heart Disease Classification](https://github.com/JakeLi2001/heart-disease-classification) (R)
@@ -32,9 +35,6 @@ testing, etc.), HTML/CSS
 - [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/33df81af-c5bf-4fa9-b5f2-589fa1dd4dc4/public_url)
 - [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/a001f7f9-aaa5-4362-9d74-7d78afd4c8a6/public_url)
 - [EverUp Micro-Credential Data Analytics](https://github.com/JakeLi2001/EverUp-Micro-Credential-Data-Analytics)
-
-## Currently working on: 
-- [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8): A year long technical and professional development program
 
 Fun Fact: I can read morse code.
 
