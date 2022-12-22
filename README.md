@@ -1,7 +1,7 @@
 <p>
   <h1 align="center">Hello there👋, welcome to my profile!</h1>
   <img align="center" src="imgs/name_banner.png">
-  <a href="https://www.linkedin.com/in/jakeli2001/" target="_blank" rel="noopener noreferrer"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/jakeli2001/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
 
 I am a first-generation college student at CUNY Baruch College, Zicklin School of Business. I am currently a senior majoring in Computer Information Systems (Data Analytics Track) with a minor in Mathematics. I have always been interested in math and technology which leads me to the field of data science. I am interested in solving problems and seek to make an impact using data science. The ability to turn raw data into actionable insights that guide business decisions or solve a problem is truly fascinating and powerful.
