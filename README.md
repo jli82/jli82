@@ -12,7 +12,6 @@ I am a first-generation college student at CUNY Baruch College, Zicklin School o
 - [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8): A year long technical and professional development program
 
 ## Projects:
--   <a target="_blank" href="https://github.com/Fatimajavid/PredictingCrimesintheUS">Testing</a>
 - [CTP Project - Crime Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS) (Python)
 - [Big Data Stock Price Prediction](https://github.com/JakeLi2001/big-data-stock-price-prediction) (PySpark)
 - [Heart Disease Classification](https://github.com/JakeLi2001/heart-disease-classification) (R)
