@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center">Hello there👋, welcome to my profile!</h1>
+  <h1 align="center">Hello there👋, welcome to my GitHub!</h1>
   <img align="center" src="imgs/name_banner.png">
   <a target="_blank" href="https://www.linkedin.com/in/jakeli2001/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
