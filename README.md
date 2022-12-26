@@ -4,6 +4,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/jakeli2001/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
 
+### Visit my GitHub Pages [here](https://jakeli2001.github.io/)
 ---
 
 ## Currently working on: 
