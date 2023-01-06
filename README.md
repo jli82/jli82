@@ -26,7 +26,7 @@
 
 ## Skills
 - Languages: Python, R, SQL, PySpark, Bash
-- Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Tidyverse, ggplot2
+- Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly, Tidyverse, ggplot2
 - Framework: Streamlit
 - Tools: Git, Jupyter Notebook, Tableau, Relational Database (PostgreSQL, Microsoft Access), Excel/Sheets
 
