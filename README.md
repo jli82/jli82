@@ -9,6 +9,7 @@
 
 ## Currently working on: 
 - [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8): A year long technical and professional development program
+- [Mini SQL Projects](https://github.com/JakeLi2001/mini-sql-projects): Find dataset, ask questions, answer using SQL, and visualize with Tableau
 
 ## Projects:
 - [CTP Project - Crime Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS) (Python)
