@@ -4,7 +4,6 @@
   <a target="_blank" href="https://www.linkedin.com/in/jakeli2001/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
 
-### Visit my GitHub Pages (portfolio) [here](https://jakeli2001.github.io/).
 ---
 
 ## Currently working on: 
@@ -30,6 +29,15 @@
 - Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly, Tidyverse, ggplot2
 - Framework: Streamlit
 - Tools: Git, Jupyter Notebook, Tableau, Relational Database (PostgreSQL, Microsoft Access), Excel/Sheets
+
+## Courseworks
+| Programming                                 | Math/Stat                                   |
+| ------------------------------------------- | ------------------------------------------- |
+| Programming for Analytics | Calculus II and III |
+| Database Management Systems | Business Statistics |
+| Data Mining | Introduction to Probability |
+| Data Visualization | Linear Algebra & Matrix Methods |
+| Big Data Technologies |
 
 ## Certification:
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/2d27f34e-bb5b-47e1-ab04-6a2b2081577a/public_url)
