@@ -11,7 +11,7 @@
 - [Mini SQL Projects](https://github.com/JakeLi2001/mini-sql-projects): Find dataset, ask questions, answer using SQL, and visualize with Tableau
 
 ## Projects:
-- [CTP Project - Crime Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS) (Python)
+- [Crime Rate Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS) (Python)
 - [Big Data Stock Price Prediction](https://github.com/JakeLi2001/big-data-stock-price-prediction) (PySpark)
 - [Heart Disease Classification](https://github.com/JakeLi2001/heart-disease-classification) (R)
 - [Data Analyst Keywords Analysis](https://github.com/JakeLi2001/Keywords_for_Data_Analyst) (Python)
