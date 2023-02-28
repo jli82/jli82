@@ -16,8 +16,8 @@
 - [Data Analyst Keywords Analysis](https://github.com/JakeLi2001/Keywords_for_Data_Analyst) (Python)
 
 ## Personal Project:
-- [Google Data Analytics Professional Certificate - Bike Share Case Study](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate) (R)
 - [Mini SQL Projects](https://github.com/JakeLi2001/mini-sql-projects) (SQL)
+- [Google Data Analytics Professional Certificate - Bike Share Case Study](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate) (R)
 
 ### Tableau
 - [Tableau Public](https://public.tableau.com/app/profile/jakeli2001)
