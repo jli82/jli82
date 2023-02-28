@@ -17,7 +17,7 @@
 
 ## Personal Project:
 - [Google Data Analytics Professional Certificate - Bike Share Case Study](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate) (R)
-- [Mini SQL Projects](https://github.com/JakeLi2001/mini-sql-projects): Find dataset, ask questions, answer using SQL, and visualize with Tableau
+- [Mini SQL Projects](https://github.com/JakeLi2001/mini-sql-projects) (SQL)
 
 ### Tableau
 - [Tableau Public](https://public.tableau.com/app/profile/jakeli2001)
