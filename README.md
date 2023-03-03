@@ -35,11 +35,11 @@
 | ---------- | ---------- | ---------- |
 | Programming for Analytics | Calculus II and III | Business Fundmentals |
 | Database Management Systems | Business Statistics | Speech Communication |
-| Data Mining | Intro to Probability | Quantitative Decision Making for Business (in-progress) | 
-| Data Visualization | Linear Algebra & Matrix Methods | Business Policy (in-progress) |
-| Big Data Technologies | Intro to Machine Learning (in-progress) |
-| Data Warehousing for Analytics (in-progress) |
-| Applied Natural Language Processing (in-progress) |
+| Data Mining | Intro to Probability | Quantitative Decision Making for Business (in progress) | 
+| Data Visualization | Linear Algebra & Matrix Methods | Business Policy (in progress) |
+| Big Data Technologies | Intro to Machine Learning (in progress) |
+| Data Warehousing for Analytics (in progress) |
+| Applied Natural Language Processing (in progress) |
 
 ## Certification:
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/2d27f34e-bb5b-47e1-ab04-6a2b2081577a/public_url)
