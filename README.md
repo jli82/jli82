@@ -31,7 +31,7 @@
 - Tools: Git, Jupyter Notebook, Tableau, Relational Database (PostgreSQL, Microsoft Access), Excel/Sheets
 
 ## Courseworks
-| Programming | Math/Stat | Business Related |
+| Programming/Technical | Math/Stat | Business Related |
 | ---------- | ---------- | ---------- |
 | Programming for Analytics | Calculus II and III | Business Fundmentals |
 | Database Management Systems | Business Statistics | Speech Communication |
