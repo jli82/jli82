@@ -1,5 +1,4 @@
 <p>
-  <img align="left" src="imgs/account.svg">
   <h1 align="center">Hello there👋, welcome to my GitHub!</h1>
   <img align="center" src="imgs/name_banner.png">
   <a target="_blank" href="https://www.linkedin.com/in/jakeli2001/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
@@ -29,7 +28,7 @@
 - Languages: Python, R, SQL, PySpark, Bash
 - Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly, Tidyverse, ggplot2
 - Framework: Streamlit
-- Tools: Git, Jupyter Notebook, Tableau, Relational Database (PostgreSQL, Microsoft Access), Excel/Sheets
+- Tools: Tableau, PostgreSQL, Excel, AWS, Jupyter Notebook, Git
 
 ## Courseworks
 | Programming/Technical | Math/Stat | Business Related |
