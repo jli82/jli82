@@ -25,9 +25,8 @@
 ---
 
 ## :memo: Skills
-- Languages: Python, R, SQL, PySpark, Bash
-- Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly, Tidyverse, ggplot2
-- Framework: Streamlit
+- Languages: Python, SQL, R, PySpark, Bash
+- Libraries/Frameworks: NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib, Plotly, Scipy, Tidyverse, ggplot2, Streamlit
 - Tools: Tableau, PostgreSQL, Excel, AWS, Jupyter Notebook, Git
 
 ## :open_book: Courseworks
