@@ -48,4 +48,6 @@
 - [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/a001f7f9-aaa5-4362-9d74-7d78afd4c8a6/public_url)
 - [EverUp Micro-Credential Data Analytics](https://github.com/JakeLi2001/EverUp-Micro-Credential-Data-Analytics)
 
+---
+
 <img src="https://readme-jokes.vercel.app/api?theme=solidBlue" alt="Jokes Card"/>
