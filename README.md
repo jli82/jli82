@@ -8,6 +8,8 @@
 
 ## :mag_right: Currently working on: 
 - [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8): A year long technical and professional development program
+- [Anime Recommendation Engine](https://github.com/JakeLi2001/anime-recommendation): Build a recommendation engine for anime and host on Streamlit
+- [An Introduction to Statistical Learning](https://github.com/JakeLi2001/intro-to-statistical-learning): Following the exercises in the book and try to create a Python version of the code
 
 ## :desktop_computer:	Academic Projects:
 - [Crime Rate Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS) (Python)
