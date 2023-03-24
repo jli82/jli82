@@ -51,4 +51,5 @@
 ---
 
 ## Daily does of joke
+
 <img src="https://readme-jokes.vercel.app/api?theme=solidBlue" alt="Jokes Card"/>
