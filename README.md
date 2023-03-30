@@ -32,7 +32,7 @@
 - Tools: Tableau, PostgreSQL, Excel, AWS, Jupyter Notebook, Git
 
 ## :open_book: Courseworks
-| Programming/Technical | Math/Stat | Business Related |
+| Programming/Technical | Math | Business Related |
 | ---------- | ---------- | ---------- |
 | Programming for Analytics | Calculus II and III | Business Fundmentals |
 | Database Management Systems | Business Statistics | Speech Communication |
