@@ -29,7 +29,7 @@
 ## :memo: Skills
 - Languages | Python, SQL, R, PySpark, Bash
 - Libraries | Python - [NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib, Plotly, SciPy], R - [Tidyverse, ggplot2]
-- Tools | AWS, GCP, Tableau, PostgreSQL, PyCharm, JupyterLab, Streamlit, Git, Excel
+- Tools | AWS, Google BigQuery, Tableau, PostgreSQL, PyCharm, JupyterLab, Streamlit, Git, Excel
 
 ## :open_book: Courseworks
 | Programming/Technical | Math | Business Related |
