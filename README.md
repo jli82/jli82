@@ -4,12 +4,15 @@
   <a target="_blank" href="https://www.linkedin.com/in/jakeli2001/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
 
+Hobbies: Anime, tea, video games, music, keyboard (digital piano) beginner.
+
 ---
 
 ## :mag_right: Currently working on: 
 - [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8): A year long technical and professional development program
 - [Anime Recommendation Engine](https://github.com/JakeLi2001/anime-recommendation): Build a recommendation engine for anime and host on Streamlit
 - [An Introduction to Statistical Learning](https://github.com/JakeLi2001/intro-to-statistical-learning): Following the exercises in the book and try to create a Python version of the code
+- [Movie Search Engine](https://github.com/JakeLi2001/movie-search-engine): Create a movie search engine based on user text search (different from searching for movie title)
 
 ## :desktop_computer:	Academic Projects:
 - [Crime Rate Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS) (Python)
