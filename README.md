@@ -33,9 +33,9 @@ Hobbies: Anime, tea, video games, music, keyboard (digital piano) beginner.
 ## :memo: Skills
 Languages | Python, SQL, R, PySpark, Bash
 
-Libraries | NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib, SciPy, Tidyverse, ggplot2
+Libraries/Framework | NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib, SciPy, Tidyverse, ggplot2, Streamlit
 
-Tools | AWS, Google BigQuery, Tableau, PostgreSQL, VS Code, JupyterLab, Rstudio, Streamlit, Git, Excel
+Tools | AWS, Google BigQuery, Tableau, PostgreSQL, VS Code, JupyterLab, Rstudio, Git, Excel
 
 ## :open_book: Courseworks
 | Programming/Technical | Math | Business Related |
