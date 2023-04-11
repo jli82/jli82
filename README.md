@@ -4,7 +4,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/jakeli2001/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
 
-Hobbies: Anime, tea, video games, music, keyboard (digital piano) beginner.
+Hobbies: Anime, green tea, antiquity Chinese music, Chinese novel, keyboard (digital piano) beginner, video games
 
 ---
 
@@ -31,11 +31,11 @@ Hobbies: Anime, tea, video games, music, keyboard (digital piano) beginner.
 ---
 
 ## :memo: Skills
-Languages | Python, SQL, R, PySpark, Bash
+Programming: Python, SQL, R, PySpark, Bash
 
-Libraries/Framework | NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib, SciPy, Tidyverse, ggplot2, Streamlit
+Machine Learning: Linear regression, Logistic regression, Tree methods, NLP, Clustering, AB testing, SVM
 
-Tools | AWS, Google BigQuery, Tableau, PostgreSQL, VS Code, JupyterLab, Rstudio, Git, Excel
+Tools: AWS, Google BigQuery, Tableau, JupyterLab, VS Code, Rstudio, Databases, Git, Excel, MS Office
 
 ## :open_book: Courseworks
 | Programming/Technical | Math | Business Related |
