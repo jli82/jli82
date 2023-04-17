@@ -32,11 +32,12 @@ Hobbies: Anime, green tea, antiquity Chinese music, Chinese novel, keyboard (dig
 ---
 
 ## :memo: Skills
-Programming: Python, SQL, R, PySpark, Bash
+Programming: Python (pandas, scikit-learn, seaborn, nltk, tensorflow), SQL (MySQL, PostgreSQL), R (tidyverse, ggplot2), PySpark, Bash
 
-Machine Learning: Linear regression, Logistic regression, Tree methods, NLP, Clustering, AB testing, SVM
+Machine Learning: Linear Regression, Logistic Regression, Decision Tree, Random Forest, NLP, Clustering, Support Vector Machine, AB Testing, Neural Network
 
-Tools: AWS, Google BigQuery, Tableau, JupyterLab, VS Code, Rstudio, Databases, Git, Excel, MS Office
+Tools: AWS, Google BigQuery, Tableau, JupyterLab, VS Code, Rstudio, Databases, Git, Excel, Linux
+
 
 ## :open_book: Courseworks
 | Programming/Technical | Math | Business Related |
