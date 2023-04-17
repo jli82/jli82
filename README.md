@@ -32,12 +32,11 @@ Hobbies: Anime, green tea, antiquity Chinese music, Chinese novel, keyboard (dig
 ---
 
 ## :memo: Skills
-Programming: Python (pandas, scikit-learn, seaborn, nltk, tensorflow), SQL (MySQL, PostgreSQL), R (tidyverse, ggplot2), PySpark, Bash
+- Programming: Python (pandas, scikit-learn, seaborn, nltk, tensorflow), SQL (MySQL, PostgreSQL), R (tidyverse, ggplot2), PySpark, Bash
+- Machine Learning: Linear Regression, Logistic Regression, Decision Tree, Random Forest, NLP, Clustering, Support Vector Machine, AB Testing, Neural Network
+- Tools: AWS, Google BigQuery, Tableau, JupyterLab, VS Code, Rstudio, Databases, Git, Excel, Linux
 
-Machine Learning: Linear Regression, Logistic Regression, Decision Tree, Random Forest, NLP, Clustering, Support Vector Machine, AB Testing, Neural Network
-
-Tools: AWS, Google BigQuery, Tableau, JupyterLab, VS Code, Rstudio, Databases, Git, Excel, Linux
-
+---
 
 ## :open_book: Courseworks
 | Programming/Technical | Math | Business Related |
@@ -49,6 +48,8 @@ Tools: AWS, Google BigQuery, Tableau, JupyterLab, VS Code, Rstudio, Databases, G
 | Big Data Technologies (AWS) | Intro to Machine Learning (in progress) |
 | Data Warehousing for Analytics (in progress) |
 | Applied Natural Language Processing (in progress) |
+
+---
 
 ## :receipt: Certification:
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/2d27f34e-bb5b-47e1-ab04-6a2b2081577a/public_url)
