@@ -18,7 +18,7 @@ Hobbies: Anime, green tea, antiquity Chinese music, Chinese novel, keyboard (dig
 
 ## :desktop_computer:	Academic Projects:
 - [Crime Rate Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS) (Python)
-- [Big Data Stock Price Prediction](https://github.com/JakeLi2001/big-data-stock-price-prediction) (AWS, PySpark)
+- [Big Data Stock Price Prediction](https://github.com/JakeLi2001/big-data-stock-price-prediction) (PySpark, AWS)
 - [Heart Disease Classification](https://github.com/JakeLi2001/heart-disease-classification) (R)
 - [Data Analyst Keywords Analysis](https://github.com/JakeLi2001/Keywords_for_Data_Analyst) (Python)
 
