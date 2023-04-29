@@ -52,7 +52,7 @@ Hobbies: Anime, green tea, antiquity Chinese music, Chinese novel, keyboard (dig
 ---
 
 ## :receipt: Certification:
-- [Google Data Analytics Professional Certificate](https://www.credly.com/badges/2d27f34e-bb5b-47e1-ab04-6a2b2081577a/public_url)
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/b0b4f195aa8028441052430500f966e3)
 - [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/33df81af-c5bf-4fa9-b5f2-589fa1dd4dc4/public_url)
 - [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/a001f7f9-aaa5-4362-9d74-7d78afd4c8a6/public_url)
 - [EverUp Micro-Credential Data Analytics](https://github.com/JakeLi2001/EverUp-Micro-Credential-Data-Analytics)
