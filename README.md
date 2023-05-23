@@ -11,12 +11,12 @@ Hobbies: Anime, green tea, antiquity Chinese music, Chinese novel, keyboard (dig
 ## :mag_right: Currently working on: 
 - [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8): A year long technical and professional development program.
 - [Anime Recommendation Engine](https://github.com/JakeLi2001/anime-recommendation): Build a recommendation engine using content based filtering for anime and deploy the model as a web app.
-- [Movie Search Engine](https://github.com/JakeLi2001/movie-search-engine): Create a movie search engine based on user text search (different from searching for movie title).
-- [NYC 311 Complaints Data Warehouse](https://github.com/JakeLi2001/nyc-311-complaints-data-warehouse): Design a ETL pipeline to create a data warehouse for the NYC 311 complaints dataset and analyze the effects of traffic light conditions on vehicle accident rates in New York City.
-- (On-hold) [An Introduction to Statistical Learning](https://github.com/JakeLi2001/intro-to-statistical-learning): Read and follow the labs in the book and also try to create a Python version of the code.
+- [An Introduction to Statistical Learning](https://github.com/JakeLi2001/intro-to-statistical-learning): Read and follow the labs in the book and also try to create a Python version of the code.
 
 
 ## :desktop_computer:	Academic Projects:
+- [NYC 311 Complaints Data Warehouse](https://github.com/JakeLi2001/nyc-311-complaints-data-warehouse): Design a ETL pipeline to create a data warehouse for the NYC 311 complaints dataset and analyze the effects of traffic light conditions on vehicle accident rates in New York City.
+- [Movie Search Engine](https://github.com/JakeLi2001/movie-search-engine): Create a movie search engine based on user text search (different from searching for movie title).
 - [Crime Rate Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS) (Python)
 - [Big Data Stock Price Prediction](https://github.com/JakeLi2001/big-data-stock-price-prediction) (PySpark, AWS)
 - [Heart Disease Classification](https://github.com/JakeLi2001/heart-disease-classification) (R)
