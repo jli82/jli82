@@ -15,6 +15,7 @@ Hobbies: Anime, green tea, antiquity Chinese music, Chinese novel, keyboard (dig
 
 
 ## :desktop_computer:	Academic Projects:
+- [Handwritten Digit Recognition](https://github.com/JakeLi2001/gmm): Explore how Gaussian Mixture Model (GMM) can be used as a density estimator algorithm, as a classifier, and as a generative model.
 - [NYC 311 Complaints Data Warehouse](https://github.com/JakeLi2001/nyc-311-complaints-data-warehouse): Design a ETL pipeline to create a data warehouse for the NYC 311 complaints dataset and analyze the effects of traffic light conditions on vehicle accident rates in New York City.
 - [Movie Search Engine](https://github.com/JakeLi2001/movie-search-engine): Create a movie search engine based on user text search (different from searching for movie title).
 - [Crime Rate Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS) (Python)
