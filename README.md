@@ -42,11 +42,11 @@
 | ---------- | ---------- | ---------- |
 | Programming for Analytics | Calculus II and III | Business Fundmentals |
 | Database Management Systems | Business Statistics | Speech Communication |
-| Data Mining | Intro to Probability | Quantitative Decision Making for Business (in progress) | 
-| Data Visualization | Linear Algebra | Business Policy (in progress) |
-| Big Data Technologies (AWS) | Intro to Machine Learning (in progress) |
-| Data Warehousing for Analytics (in progress) |
-| Applied Natural Language Processing (in progress) |
+| Data Mining | Intro to Probability | Quantitative Decision Making for Business | 
+| Data Visualization | Linear Algebra | Business Policy |
+| Big Data Technologies (AWS) | Intro to Machine Learning |
+| Data Warehousing for Analytics |
+| Applied Natural Language Processing |
 
 ---
 
