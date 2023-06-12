@@ -8,7 +8,6 @@
 ## :mag_right: Currently working on: 
 - [An Introduction to Statistical Learning](https://github.com/JakeLi2001/intro-to-statistical-learning): Read and follow the labs in the book and also try to create a Python version of the code.
 
-
 ## :desktop_computer:	Academic Projects:
 - [Handwritten Digit Recognition](https://github.com/JakeLi2001/gmm): Explore how Gaussian Mixture Model (GMM) can be used as a density estimator algorithm, as a classifier, and as a generative model.
 - [NYC 311 Complaints Data Warehouse](https://github.com/JakeLi2001/nyc-311-complaints-data-warehouse): Design a ETL pipeline to create a data warehouse for the NYC 311 complaints dataset and analyze the effects of traffic light conditions on vehicle accident rates in New York City.
@@ -19,13 +18,15 @@
 - [Data Analyst Keywords Analysis](https://github.com/JakeLi2001/Keywords_for_Data_Analyst) (Python)
 
 ## :computer: Personal Project:
-- [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8): A year long technical and professional development program.
 - [Anime Recommendation Engine](https://github.com/JakeLi2001/anime-recommendation): Build a recommendation engine using content based filtering for anime and deploy the model as a web app.
 - [Google Data Analytics Professional Certificate - Bike Share Case Study](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate) (R)
 - [Mini SQL Projects](https://github.com/JakeLi2001/mini-sql-projects) (SQL)
 
 ## :clapper:	Tableau
 - [Tableau Public](https://public.tableau.com/app/profile/jakeli2001)
+
+## Program
+- [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8): A year long technical and professional development program.
 
 ---
 
