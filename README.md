@@ -36,13 +36,6 @@
 
 ---
 
-## :memo: Skills
-- Programming: Python (NumPy, Pandas, Scikit-learn, Seaborn, NLTK, PyTorch), SQL, R, PySpark
-- ML Algorithms: Regression, Classification, Tree methods, NLP, Clustering, Neural Network
-- ML Techniques: EDA, Data cleaning, Feature engineering, Model selection, Model training, Model evaluation
-- Tools: AWS, Google BigQuery, Git, Tableau, Excel, API, Linux, Relational Databases, MongoDB
----
-
 ## :open_book: Courseworks
 | Programming/Technical | Math | Business Related |
 | ---------- | ---------- | ---------- |
@@ -57,6 +50,7 @@
 ---
 
 ## :receipt: Certification:
+- [GTx - Data Structures and Algorithms](https://credentials.edx.org/credentials/4c7303da8df14ebb8aa4e29bf42ccf34/)
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/b0b4f195aa8028441052430500f966e3)
 - [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/33df81af-c5bf-4fa9-b5f2-589fa1dd4dc4/public_url)
 - [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/a001f7f9-aaa5-4362-9d74-7d78afd4c8a6/public_url)
