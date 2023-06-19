@@ -1,9 +1,15 @@
-<p>
-  <h1 align="center">Hello there👋, welcome to my GitHub!</h1>
-  <img align="center" src="imgs/name_banner.png">
-</p>
+<h1 align="center">Hello there :wave:, welcome to my GitHub!</h1>
 
----
+## ♟️A little about me
+- My name is JianHui Li but I usually go by Jake
+- Graduated from CUNY Baruch College (Fall 2019 - Spring 2023)
+- Major: Computer Information Systems (Data Analytics Track) | Minor: Math
+- First-generation college student
+- Always been interested in math and technology
+- Got interested in data science around my junior year and decided to fully commit to it in my senior year
+- Love problem-solving (the reason why I minor in math)
+- Seek to make positive social impacts using data science
+- Hobbies: Anime, tea (green tea), antiquity-style Chinese music, Chinese novels, and keyboard (digital piano)
 
 ## :mag_right: Currently working on: 
 - [An Introduction to Statistical Learning](https://github.com/JakeLi2001/intro-to-statistical-learning): Read and follow the labs in the book and also try to create a Python version of the code.
