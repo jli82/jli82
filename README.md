@@ -11,6 +11,8 @@
 - Seek to make positive social impacts using data science
 - Hobbies: Anime, tea (green tea), antiquity-style Chinese music, Chinese novels, and keyboard (digital piano)
 
+---
+
 ## :mag_right: Currently working on: 
 - [An Introduction to Statistical Learning](https://github.com/JakeLi2001/intro-to-statistical-learning): Read and follow the labs in the book and also try to create a Python version of the code.
 
@@ -31,7 +33,7 @@
 ## :clapper:	Tableau
 - [Tableau Public](https://public.tableau.com/app/profile/jakeli2001)
 
-## Program
+## :ladder: Program
 - [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8): A year long technical and professional development program.
 
 ---
