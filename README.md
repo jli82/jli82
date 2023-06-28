@@ -13,8 +13,10 @@
 
 ---
 
-## :mag_right: Currently working on: 
-- [An Introduction to Statistical Learning](https://github.com/JakeLi2001/intro-to-statistical-learning): Read and follow the labs in the book and also try to create a Python version of the code.
+## :mag_right: Currently working on:
+- Machine Learning Specialization (Coursera | Stanford & DeepLearning.AI)
+- Reading Data Science from Scratch book.
+
 
 ## :desktop_computer:	Academic Projects:
 - [Handwritten Digit Recognition](https://github.com/JakeLi2001/gmm): Explore how Gaussian Mixture Model (GMM) can be used as a density estimator algorithm, as a classifier, and as a generative model.
