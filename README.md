@@ -14,8 +14,7 @@
 ---
 
 ## :mag_right: Currently working on:
-- Machine Learning Specialization (Coursera | Stanford & DeepLearning.AI)
-- Reading Data Science from Scratch book.
+- Reading *Data Science from Scratch* and *An Introduction to Statistical Learning* (Also following the lab exercises).
 
 
 ## :desktop_computer:	Academic Projects:
