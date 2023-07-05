@@ -14,7 +14,7 @@
 ---
 
 ## :mag_right: Currently working on:
-- Reading *Data Science from Scratch* and *An Introduction to Statistical Learning* (Also following the lab exercises).
+- Reading *An Introduction to Statistical Learning* and following the lab exercises.
 
 
 ## :desktop_computer:	Academic Projects:
