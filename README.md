@@ -3,11 +3,11 @@
 ## ♟️A little about me
 - My name is JianHui Li but I usually go by Jake
 - Graduated from CUNY Baruch College (Fall 2019 - Spring 2023)
-- Major: Computer Information Systems (Data Analytics Track) | Minor: Math
+  - Major: Computer Information Systems (Data Analytics Track) | Minor: Math
 - First-generation college student
 - Always been interested in math and technology
 - Got interested in data science around my junior year and decided to fully commit to it in my senior year
-- Love problem-solving (the reason why I minor in math)
+- Love problem-solving (the reason why I minor in math and interested in data science)
 - Seek to make positive social impacts using data science
 - Hobbies: Anime, tea (green tea), antiquity-style Chinese music, Chinese novels, and keyboard (digital piano)
 
