@@ -39,7 +39,7 @@
 
 ---
 
-## :open_book: Courseworks
+## :open_book: Courses
 | Programming/Technical | Math | Business Related |
 | ---------- | ---------- | ---------- |
 | Programming for Analytics | Calculus II and III | Business Fundamentals |
