@@ -14,6 +14,7 @@
 ---
 
 ## :mag_right: Currently working on:
+- Mathematics for Machine Learning and Data Science Specialization on Coursera
 - Reading *An Introduction to Statistical Learning* and following the lab exercises.
 
 
