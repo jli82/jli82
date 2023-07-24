@@ -14,6 +14,7 @@
 ---
 
 ## :mag_right: Currently working on:
+- Google Advanced Data Analytics Professional Certificate
 - Reading *An Introduction to Statistical Learning* and following the lab exercises.
 
 
