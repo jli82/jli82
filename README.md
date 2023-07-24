@@ -17,7 +17,7 @@
 - Reading *An Introduction to Statistical Learning* and following the lab exercises.
 
 
-## :desktop_computer:	Academic Projects:
+## :desktop_computer:	Academic Data Projects:
 - [Handwritten Digit Recognition](https://github.com/JakeLi2001/gmm): Explore how Gaussian Mixture Model (GMM) can be used as a density estimator algorithm, as a classifier, and as a generative model.
 - [NYC 311 Complaints Data Warehouse](https://github.com/JakeLi2001/nyc-311-complaints-data-warehouse): Design an ETL pipeline to create a data warehouse for the NYC 311 complaints dataset and analyze the effects of traffic light conditions on vehicle accident rates in New York City.
 - [Movie Search Engine](https://github.com/JakeLi2001/movie-search-engine): Create a movie search engine based on user text search (different from searching for movie title).
@@ -26,7 +26,7 @@
 - [Heart Disease Classification](https://github.com/JakeLi2001/heart-disease-classification) (R): Use statuses to detect the presence of heart disease. 
 - [Data Analyst Keywords Analysis](https://github.com/JakeLi2001/Keywords_for_Data_Analyst) (Python): Use web scraping to collect data analyst keywords from 11 websites and analyze which keywords are most frequent.
 
-## :computer: Personal Project:
+## :computer: Personal Data Project:
 - [Anime Recommendation Engine](https://github.com/JakeLi2001/anime-recommendation) (Python): Build a recommendation engine using content-based filtering for anime and deploy the model as a web app.
 - [Google Data Analytics Professional Certificate - Bike Share Case Study](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate) (R): Capstone project for the data analytics professional certificate.
 - [Mini SQL Projects](https://github.com/JakeLi2001/mini-sql-projects) (SQL): Find a dataset and load it into a database, ask questions, answer using SQL, and visualize with Tableau.
