@@ -14,7 +14,7 @@
 ---
 
 ## :mag_right: Currently working on:
-- Google Advanced Data Analytics Professional Certificate
+- [Google Advanced Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Advanced-Data-Analytics-Professional-Certificate)
 - Reading *An Introduction to Statistical Learning* and following the lab exercises.
 
 
