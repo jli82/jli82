@@ -43,12 +43,12 @@
 ## :open_book: Courses
 | Programming/Technical | Math | Business Related |
 | ---------- | ---------- | ---------- |
-| Programming for Analytics | Calculus II and III | Business Fundamentals |
+| Programming for Analytics (Python) | Calculus II and III | Business Fundamentals |
 | Database Management Systems | Business Statistics | Speech Communication |
 | Data Mining | Intro to Probability | Quantitative Decision Making for Business | 
 | Data Visualization | Linear Algebra | Business Policy |
 | Big Data Technologies (AWS) | Intro to Machine Learning |
-| Data Warehousing for Analytics |
+| Data Warehousing for Analytics (Google BigQuery) |
 | Applied Natural Language Processing |
 
 ---
