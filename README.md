@@ -14,7 +14,6 @@
 ---
 
 ## :mag_right: Currently working on:
-- [Google Advanced Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Advanced-Data-Analytics-Professional-Certificate)
 - Reading *An Introduction to Statistical Learning* and following the lab exercises.
 
 
@@ -28,6 +27,9 @@
 - [Data Analyst Keywords Analysis](https://github.com/JakeLi2001/Keywords_for_Data_Analyst) (Python): Use web scraping to collect data analyst keywords from 11 websites and analyze which keywords are most frequent.
 
 ## :computer: Personal Data Project:
+- [Google Advanced Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Advanced-Data-Analytics-Professional-Certificate)
+  - [TikTok Claims Classification](https://github.com/JakeLi2001/Google-Advanced-Data-Analytics-Professional-Certificate/tree/main/claim_classification) (Python): Build a classification model that classifies whether a video contains a claim or opinion to reduce the backlog of user reports and prioritize them more efficiently.
+  - [Employee Retention Classification](https://github.com/JakeLi2001/Google-Advanced-Data-Analytics-Professional-Certificate/tree/main/employee_retention_classification) (Python): Built a classification model that predicts whether an employee will leave or stay.
 - [Anime Recommendation Engine](https://github.com/JakeLi2001/anime-recommendation) (Python): Build a recommendation engine using content-based filtering for anime and deploy the model as a web app.
 - [Google Data Analytics Professional Certificate - Bike Share Case Study](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate) (R): Capstone project for the data analytics professional certificate.
 - [Mini SQL Projects](https://github.com/JakeLi2001/mini-sql-projects) (SQL): Find a dataset and load it into a database, ask questions, answer using SQL, and visualize with Tableau.
@@ -54,6 +56,7 @@
 ---
 
 ## :receipt: Certification:
+- [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/56QV4GWSUY5C)
 - [GTx - Data Structures and Algorithms](https://credentials.edx.org/credentials/4c7303da8df14ebb8aa4e29bf42ccf34/)
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/b0b4f195aa8028441052430500f966e3)
 - [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/33df81af-c5bf-4fa9-b5f2-589fa1dd4dc4/public_url)
