@@ -14,8 +14,7 @@
 ---
 
 ## :mag_right: Currently working on:
-- Reading *An Introduction to Statistical Learning* and following the lab exercises.
-
+- [OMSCS CSE6242}(https://omscs.gatech.edu/cse-6242-data-visual-analytics)
 
 ## :desktop_computer:	Academic Data Projects:
 - [Handwritten Digit Recognition](https://github.com/JakeLi2001/gmm): Explore how Gaussian Mixture Model (GMM) can be used as a density estimator algorithm, as a classifier, and as a generative model.
