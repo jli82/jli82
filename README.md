@@ -2,6 +2,7 @@
 
 ## ♟️A little about me
 - My name is JianHui Li but I usually go by Jake
+- Currently: OMSCS student @ Georgia Tech
 - Graduated from CUNY Baruch College (Fall 2019 - Spring 2023)
   - Major: Computer Information Systems (Data Analytics Track) | Minor: Math
 - First-generation college student
