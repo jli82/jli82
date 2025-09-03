@@ -15,7 +15,7 @@
 ---
 
 ## :mag_right: Currently working on:
-- 
+- [C# Games](https://github.com/jli82/c-sharp-games)
 
 ## :desktop_computer:	Graduate Academic Data Science Projects:
 - 
