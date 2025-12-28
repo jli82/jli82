@@ -14,13 +14,6 @@
 
 ---
 
-## :mag_right: Currently working on:
-- [C# Games](https://github.com/jli82/c-sharp-games)
-
-## :desktop_computer:	Graduate Academic Data Science Projects:
-- 
-
-
 ## :desktop_computer:	Undergraduate Academic Data Science Projects:
 - [Handwritten Digit Recognition](https://github.com/JakeLi2001/gmm): Explore how Gaussian Mixture Model (GMM) can be used as a density estimator algorithm, as a classifier, and as a generative model.
 - [NYC 311 Complaints Data Warehouse](https://github.com/JakeLi2001/nyc-311-complaints-data-warehouse): Design an ETL pipeline to create a data warehouse for the NYC 311 complaints dataset and analyze the effects of traffic light conditions on vehicle accident rates in New York City.
