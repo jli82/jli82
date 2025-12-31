@@ -1,19 +1,3 @@
-<h1 align="center">Hello there :wave:, welcome to my GitHub!</h1>
-
-## ♟️A little about me
-- My name is JianHui Li but I usually go by Jake
-- Currently: OMSCS student @ Georgia Tech
-- Graduated from CUNY Baruch College (Fall 2019 - Spring 2023)
-  - Major: Computer Information Systems (Data Analytics Track) | Minor: Math
-- First-generation college student
-- Always been interested in math and technology
-- Got interested in data science around my junior year and decided to fully commit to it in my senior year
-- Love problem-solving (the reason why I minor in math and interested in data science)
-- Seek to make positive social impacts using data science
-- Hobbies: Anime, tea (green tea), antiquity-style Chinese music, Chinese novels, and keyboard (digital piano)
-
----
-
 ## :desktop_computer:	Undergraduate Academic Data Science Projects:
 - [Handwritten Digit Recognition](https://github.com/JakeLi2001/gmm): Explore how Gaussian Mixture Model (GMM) can be used as a density estimator algorithm, as a classifier, and as a generative model.
 - [NYC 311 Complaints Data Warehouse](https://github.com/JakeLi2001/nyc-311-complaints-data-warehouse): Design an ETL pipeline to create a data warehouse for the NYC 311 complaints dataset and analyze the effects of traffic light conditions on vehicle accident rates in New York City.
